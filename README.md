@@ -43,9 +43,6 @@ Oldpeak: oldpeak = ST [Numeric value measured in depression]
 
 ST_Slope: the slope of the peak exercise ST segmen
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images)
-
-
 
 ### Data Preprocessing
 
