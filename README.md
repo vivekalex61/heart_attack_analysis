@@ -2,7 +2,7 @@
 # Heart Attack Analysis And Prediction 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-Building a text summarizer using T5 transformer.
+Building a heart attack risk predictor.
 ## Introduction 
 
 #### 
