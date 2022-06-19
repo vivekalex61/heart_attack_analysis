@@ -10,7 +10,7 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
+![alt text](https://raw.githubusercontent.com/heart_attack_analysis/blob/main/giphy.gif)
                 
 ## Overview 
 - Datasets and Data-Loading
